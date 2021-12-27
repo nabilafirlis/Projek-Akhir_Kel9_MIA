@@ -6,4 +6,9 @@
 4. Fajar Kurniawan - 2007051021
 
 # Class Diagram
+![Screenshot (278)](https://user-images.githubusercontent.com/95564998/147454083-b40fcc6f-f7ad-48f3-8516-03c735febab8.png)
+
+# ER Diagram
+
+
 
